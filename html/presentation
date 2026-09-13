@@ -1,0 +1,36 @@
+<!-- A basic program in html  -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Dream</title>
+
+    <style>
+      img {
+        width: 120px;
+        height: 160px;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+
+  <body>
+    <section>
+      <h2>About Me</h2>
+      <p>I'm learning web development.</p>
+      <img
+      src="https://i.pinimg.com/1200x/85/be/a8/85bea81b7ad6d9ff4b4bd7d8c98e116d.jpg"
+      alt="A picture about me" class"passport"
+    </section>
+
+    <section>
+      <h2>My Goals</h2>
+      <p>I want to become a web designer.</p>
+      <img
+      src="https://i.pinimg.com/736x/79/fb/ea/79fbeae60aad60cbdb414ad7526882ca.jpg"
+      alt="A picture about me" class"passport" />
+    </section>
+  </body>
+</html>
