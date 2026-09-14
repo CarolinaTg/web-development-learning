@@ -1,0 +1,49 @@
+<!-- list design-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Creative Process</title>
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    >
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 32px;
+        background: #f5f5f2;
+        color: #111111;
+        font-family: "Space Grotesk", sans-serif;
+      }
+
+      p {
+        margin: 0;
+        padding: 20px 0;
+        border-bottom: 1px solid #111111;
+        font-size: 18px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+    </style>
+  </head>
+
+  <body>
+    <p>01 / Research</p>
+    <p>02 / Design</p>
+    <p>03 / Code</p>
+    <p>04 / Publish</p>
+  </body>
+</html>
+
