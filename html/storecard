@@ -1,0 +1,67 @@
+<!--Store-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Product Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 20px;
+      max-width: 600px;
+    }
+    h1 {
+      color: #333;
+    }
+    h3 {
+      color: #666;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    img {
+      width: 100%;
+      max-width: 300px;
+      display: block;
+      margin: 10px 0;
+      border-radius: 8px;
+    }
+    /* Botón visible en color naranja vibrante */
+    button {
+      background: linear-gradient(to right, #ff7e5f, #feb47b);
+      color: #fff;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      box-shadow: inset 0 0 5px rgba(255,255,255,0.5), inset 0 0 10px rgba(0,0,0,0.2), 0 4px 8px rgba(0,0,0,0.2);
+      transition: all 0.3s ease;
+      display: inline-block;
+      margin-top: 30px;
+    }
+    button:hover {
+      background: linear-gradient(to right, #ffb347, #ff7e5f);
+      box-shadow: inset 0 0 7px rgba(255,255,255,0.8), inset 0 0 15px rgba(0,0,0,0.3), 0 6px 12px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+  <h1>Featured Product: Printed T-Shirt</h1>
+  <h3>By Tienda Moda Plus<br>March 23, 2025</h3>
+  
+  <img src="https://i.pinimg.com/736x/30/d8/05/30d80564ea6cbbabf112b42e6291df17.jpg" alt="Producto" />
+  
+  <p>
+    This high-quality printed cotton T-shirt is perfect for looking stylish on any occasion. Available in various sizes and colors. Price: <strong>$25.99</strong>.
+  </p>
+  
+  <p>
+    Made from soft, breathable fabric, designed to keep you comfortable all day long. A must-have for your wardrobe!
+  </p>
+  
+  <button>Add to cart</button>
+</body>
+</html>
