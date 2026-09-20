@@ -1,0 +1,31 @@
+<!-- INfo singer -->
+
+<body>
+  <h1>Noah Sebastian</h1>
+  <img src="https://i.pinimg.com/736x/32/92/0d/32920d63b5dc047f6bc2318d2c7eefcc.jpg" width="100%">
+  <br>
+  <p><b>Noah Sebastian</b> (born October 31, 1995) is
+     an American singer best known as the lead
+     singer of the metal band Bad Omens. He is
+    also the group's main songwriter and producer
+    alongside guitarist Joakim Karlsson.</p>
+    
+    <p><b>Band members</b></p>
+    <ul>
+      <li>Nicholas Ruffilo</li>
+      <li>Noah Sebastian</li>
+      <li>Nick Folio,</li>
+      <li>Joakim Karlsson</li>
+    </ul>
+  
+    <p><b>Top 5 favorite songs</b></p>
+    <ol>
+      <li>Never know</li>
+      <li>Come undone</li>
+      <li>Burning out</li>
+      <li>Glass Houses</li>
+      <li>Somebody else</li>
+    </ol>
+
+    <p>To know more of Noah Sebastian <a href="https://badomensofficial.com/">click here</a></p>
+</body>
