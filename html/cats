@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My space</title>
+    <style>
+  body {
+    width: 85%;
+    margin: auto;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  img {
+    border: 3px solid blue;
+  }
+
+  #top-8-wrapper {
+    text-align: center;
+  }
+
+  .friend-card {
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+  }
+
+  .friend-name {
+    color: blue;
+  }
+</style>
+  </head>
+  <body>
+  
+      <div id="top-8-wrapper">
+          <h1>My Top Friends</h1>
+          <div class="top-8-row">
+            <div class="friend-card">
+              <h2>Linuxera</h2>
+              <img src="https://i.pinimg.com/736x/41/0f/a9/410fa9b0eb704c0fc4c4b7c204e9d148.jpg" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Left</h2>
+              <img src="https://i.pinimg.com/736x/1f/af/5c/1faf5c97f68ec55171a2c791b44e584e.jpg" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Bombastic</h2>
+              <img src="https://i.pinimg.com/736x/5f/e0/64/5fe06401a42c5e852bfcb53326fc8050.jpg" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Happy</h2>
+              <img src="https://i.pinimg.com/originals/64/df/76/64df763bd52ee2be9d08b9150f2a3146.jpg" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Opression</h2>
+              <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/2a204dec-ebee-4035-addc-975d2b5b73f4-profile_image-300x300.png" width="100%">
+
+            </div>
+          </div>
+
+
+          <div class="top-8-row">
+            <div class="friend-card">
+              <h2>Hater</h2>
+              <img src="https://i.pinimg.com/736x/1b/42/55/1b4255ef2c529bab35b2df0e1387d7ae.jpg" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Chicken nuts</h2>
+              <img src="https://i1.sndcdn.com/artworks-A74k8IYA5l3FMiok-k1KNWQ-t500x500.jpg" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Most likely to be internet famous</h2>
+              <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7cc32bf2-5a46-48b8-91e0-e6c2c59efd11-profile_image-300x300.png" width="100%">
+
+            </div>
+            <div class="friend-card">
+              <h2>Life of the party</h2>
+              <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/estickers-5/sticker_13.png?0bfb081d897f97b5e6d00fdc8687ae16" width="100%">
+
+            </div>
+          </div>
+            
+      
+    </div>
+
+  </body>
+</html>
